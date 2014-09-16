@@ -19,7 +19,7 @@ Based off these two tutorials:
 
  
 -----------------------------
------------------------------
+
 
 ## 02 Arduino counter using PIR sensor
 
@@ -41,7 +41,7 @@ Based off these two tutorials:
 
  
 -----------------------------
------------------------------
+
 
 ## 03 Arduino counter using infrared sensor
 
@@ -52,8 +52,9 @@ Using Infrared Sensor (Sharp GP2Y0A02YK0F) to count passing motion. Displays the
 
 [youTube demo video → ](http://youtu.be/WSDeNvYDZOw)
 
+
 -----------------------------
------------------------------
+
 
 ## Notes:
 
